@@ -27,3 +27,11 @@ Step 1. Copy all files to a folder. The folder permissions should be at least 66
 Step 2. Fill in your JobMine username and password in jobmine.php and run it.
 ...
 Step 3. PROFIT! :)
+
+=== Disclaimer ===
+I am not responsible for any damages you may cause with this code or for
+the impact this code may have on a remote server. This code has been
+written for educational purposes ONLY. Before running this script, please
+be aware that all information contained within JobMine can only be
+reproduced with the written permission of the University of Waterloo, 
+Co-operative Education & Career Services.
