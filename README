@@ -17,7 +17,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -------------------------------------------------------------------
 
 === Description ===
-This script can log in to your JobMine account, extract the data from the Application page, parse it, and export it to a CSV file.
+This script can log in to your JobMine account, extract the data from the
+Application page, parse it, and export it to a CSV file.
 
 === Requirements ===
 PHP-enabled server.
@@ -31,7 +32,7 @@ Step 3. PROFIT! :)
 === Disclaimer ===
 I am not responsible for any damages you may cause with this code or for
 the impact this code may have on a remote server. This code has been
-written for educational purposes ONLY. Before running this script, please
-be aware that all information contained within JobMine can only be
-reproduced with the written permission of the University of Waterloo, 
-Co-operative Education & Career Services.
+written and made available for educational purposes ONLY. Before running
+this script, please be aware that all information contained within JobMine
+can only be reproduced with the written permission of the University of
+Waterloo, Co-operative Education & Career Services.
